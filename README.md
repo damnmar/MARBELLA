@@ -1,2 +1,2 @@
-# [MARBELLA FILMS](docs/inicio.html)
+# [MARBELLA FILMS](docs/principal.html)
 Empresa de creaciones audiovisuales.
